@@ -1,1 +1,1 @@
-# Smarter-API
+# Google map integration
